@@ -45,10 +45,33 @@
 
 ## 6.RE
 
-![CleanShot 2023-10-28 at 16.53.27@2x](Automata_note/CleanShot 2023-10-28 at 16.53.27@2x.png)
+#### Concept
+
+![CleanShot 2023-10-28 at 18.43.49@2x](/Users/ri/Desktop/大二上/自动坤/Automata_note/CleanShot 2023-10-28 at 18.43.49@2x.png)
 
 ![CleanShot 2023-10-28 at 16.54.22@2x](/Users/ri/Desktop/大二上/自动坤/Automata_note/CleanShot 2023-10-28 at 16.54.22@2x.png)
 
 #### Example
 
+##### RE->RL
+
 ![CleanShot 2023-10-28 at 16.58.18@2x](CleanShot 2023-10-28 at 16.58.18@2x.png)
+
+![CleanShot 2023-10-28 at 18.45.03@2x](/Users/ri/Desktop/大二上/自动坤/Automata_note/CleanShot 2023-10-28 at 18.45.03@2x.png)
+
+##### RL->RE
+
+![CleanShot 2023-10-28 at 18.48.04@2x](CleanShot 2023-10-28 at 18.48.04@2x.png)
+
+![CleanShot 2023-10-28 at 18.48.44@2x](CleanShot 2023-10-28 at 18.48.44@2x.png)
+
+![CleanShot 2023-10-28 at 18.49.30@2x](/Users/ri/Desktop/大二上/自动坤/Automata_note/CleanShot 2023-10-28 at 18.49.30@2x.png)
+
+##### RE->NFA
+
+![CleanShot 2023-10-28 at 18.58.05@2x](/Users/ri/Desktop/大二上/自动坤/Automata_note/CleanShot 2023-10-28 at 18.58.05@2x.png)
+
+##### AF->RE 看ppt！！！🌟
+
+## 7.RG
+
